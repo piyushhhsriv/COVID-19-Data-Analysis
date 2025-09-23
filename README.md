@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## Installation
 1. Clone the repo:
-   git clone https://github.com/<piyushhhsriv>/COVID-19-Data-Analysis.git
+   git clone https://github.com/piyushhhsriv/COVID-19-Data-Analysis
 2. Create and activate a virtual environment:
    python -m venv venv
    source venv/bin/activate  # macOS / Linux
