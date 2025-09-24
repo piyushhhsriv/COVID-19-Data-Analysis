@@ -109,5 +109,6 @@ Please add clear documentation for new data sources and processing steps.
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-## Contact
-GitHub: https://github.com/piyushhhsriv>
+## Author
+
+*Piyush Srivastava* | [GitHub](https://github.com/yourprofile)
